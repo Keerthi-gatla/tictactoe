@@ -1,8 +1,3 @@
-Of course! I'll add a section to the README file for setting up the environment and installing Python.
-
-Here's the updated README:
-
-```markdown
 # Tic-Tac-Toe Game
 
 Welcome to the Tic-Tac-Toe game repository! This project is a simple implementation of the classic Tic-Tac-Toe game using Python. Play against the computer and see if you can win!
@@ -12,9 +7,10 @@ Welcome to the Tic-Tac-Toe game repository! This project is a simple implementat
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Environment Setup](#environment-setup)
-- [Contributing](#contributing)
+- [Usage](#usage)
+- [Game Rules](#game-rules)
+- [Contact](#contact)
 - [License](#license)
 
 ## Introduction
@@ -58,11 +54,11 @@ This project is a console-based Tic-Tac-Toe game where you can play against an A
         python -m venv venv
         ```
     - Activate the virtual environment:
-        - **Windows:**
+        - **Windows**:
             ```sh
             venv\Scripts\activate
             ```
-        - **macOS/Linux:**
+        - **macOS/Linux**:
             ```sh
             source venv/bin/activate
             ```
@@ -89,16 +85,14 @@ This project is a console-based Tic-Tac-Toe game where you can play against an A
 - The first player to get three of their marks in a row (up, down, across, or diagonally) wins the game.
 - If all 9 squares are filled and neither player has three in a row, the game is a tie.
 
-## Contributing
+## Contact
 
-Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request.
+For any queries or support, feel free to reach out:
 
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/your-feature-name`)
-3. Commit your changes (`git commit -m 'Add some feature'`)
-4. Push to the branch (`git push origin feature/your-feature-name`)
-5. Open a pull request
-
+- **Email**: [keerthi.ece.software@gmail.com](mailto:keerthi.ece.software@gmail.com)
+  
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+
